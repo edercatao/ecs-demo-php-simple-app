@@ -15,6 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
+            	<img class="logo-img" data-home-url="http://coretech.com.br/" data-light-url="http://site.coretech.com.br/wp-content/uploads/2017/11/CORENEGATIVO.png" data-dark-url="http://site.coretech.com.br/wp-content/uploads/2017/10/logocoretech-1.png" src="http://coretech.com.br/wp-content/uploads/2017/11/CORENEGATIVO.png" style="position: absolute;">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
