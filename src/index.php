@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-            	<img class="logo-img" data-home-url="http://coretech.com.br/" data-light-url="http://site.coretech.com.br/wp-content/uploads/2017/11/CORENEGATIVO.png" data-dark-url="http://site.coretech.com.br/wp-content/uploads/2017/10/logocoretech-1.png" src="http://coretech.com.br/wp-content/uploads/2017/11/CORENEGATIVO.png" style="position: absolute;">
+            	<img class="logo-img" data-home-url="http://www.coretech.com.br/" data-light-url="http://site.coretech.com.br/wp-content/uploads/2017/11/CORENEGATIVO.png" data-dark-url="http://site.coretech.com.br/wp-content/uploads/2017/10/logocoretech-1.png" src="http://coretech.com.br/wp-content/uploads/2017/11/CORENEGATIVO.png" style="position: absolute;"> 
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
@@ -30,7 +30,7 @@
         </div>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script> 
     </body>
 
 </html>
